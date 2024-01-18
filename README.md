@@ -53,6 +53,24 @@
 <a href="https://www.elsevier.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elsevier/elsevier-icon.svg" alt="elsevier" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google_analytics" width="40" height="40"/> </a>
+<a href="https://www.datastax.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datastax/datastax-icon.svg" alt="datastax" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitkraken" width="40" height="40"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="apache_hadoop" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="40" height="40"/> </a>
+<a href="https://www.oreilly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oreilly/oreilly-icon.svg" alt="oreilly" width="40" height="40"/> </a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+<a href="https://www.metabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="metabase" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="40" height="40"/> </a>
+<a href="https://www.coursera.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/coursera/coursera-icon.svg" alt="coursera" width="40" height="40"/> </a>
+<a href="https://dask.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dask/dask-icon.svg" alt="dask" width="40" height="40"/> </a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala-lang" width="40" height="40"/> </a>
+<a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" alt="onnxai" width="40" height="40"/> </a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
+<a href="https://usepanda.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="usepanda" width="40" height="40"/> </a>
 </p>
 
 
