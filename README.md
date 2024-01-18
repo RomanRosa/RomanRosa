@@ -28,7 +28,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logo/google-data-studio" alt="google_data_studio" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-ww/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logo/excel-4" alt="excel" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-ww/microsoft-365" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Microsoft_365_(2022).svg" alt="office365" width="40" height="40"/> </a>
