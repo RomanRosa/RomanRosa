@@ -33,8 +33,8 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="spacy" width="40" height="40"/> </a>
-<a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"><img src="https://worldvectorlogo.com/logo/apache-spark-5" alt="pyspark" width="40" height="40"/></a>
-<a href="https://databricks.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="pyspark" width="40" height="40"/></a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
 </p>
 
 
