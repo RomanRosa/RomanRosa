@@ -37,7 +37,7 @@
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="50" height="40"/></a>
 </p>
 
 
