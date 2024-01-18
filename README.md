@@ -38,6 +38,21 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="60" height="40"/></a>
+<a href="LINK_FOR_AGILECRAFT" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/agilecraft/agilecraft-icon.svg" alt="agilecraft" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="apache_spark" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/appengine" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_appengine/google_appengine-icon.svg" alt="google_appengine" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="google_bigquery" width="40" height="40"/> </a>
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="apache_cassandra" width="40" height="40"/> </a>
+<a href="https://www.codecademy.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="codecademy" width="40" height="40"/> </a>
+<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
+<a href="https://www.udacity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/udacity/udacity-icon.svg" alt="udacity" width="40" height="40"/> </a>
+<a href="https://www.udemy.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django_project" width="40" height="40"/> </a>
+<a href="https://www.edx.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/edx/edx-icon.svg" alt="edx" width="40" height="40"/> </a>
+<a href="https://www.elsevier.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elsevier/elsevier-icon.svg" alt="elsevier" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google_analytics" width="40" height="40"/> </a>
 </p>
 
 
