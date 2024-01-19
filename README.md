@@ -71,6 +71,14 @@
 <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" alt="onnxai" width="40" height="40"/> </a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a>
 <a href="https://usepanda.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="usepanda" width="40" height="40"/> </a>
+<a href="https://www.kaggle.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/></a>
+<a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="JuliaLang" width="40" height="40"/></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/</a>
+<a href="https://web.mit.edu/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mitedu/mitedu-icon.svg" alt="MIT" width="40" height="40"/></a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/></a>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/></a>
+<a href="https://www.bing.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/bing/bing-icon.svg" alt="Bing" width="40" height="40"/></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
 </p>
 
 
