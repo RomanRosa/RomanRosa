@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on **ML/DL/LLMs**
 - 💬 Ask me about **AI**, **ML**, **Data Science**, **Deep Learning** & **LLMs**
 - 😄 Pronouns: He/Him
+- ✉️ Email: [Roman de la Rosa](fproman393@gmail.com)
+- 👔 LinkedIn: [Roman de la Rosa](https://www.linkedin.com/in/franciscopena76165796/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
