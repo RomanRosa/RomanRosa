@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Roman de la Rosa</h1>
-<h3 align="center"> Lead Generative AI Engineer & MLOps Engineer - Deep Learning, Computer Vision & LLMs </h3>
+<h3 align="center"> Lead Analyst - Generative AI & MLOps Engineer - Deep Learning, Computer Vision & LLMs </h3>
 
 - 🔭 I’m currently working on **Generative AI, Machine Learning Operations & Expert Systems**
 - 🌱 I’m currently learning **Generative AI, Transformers Applications & LLMs**
